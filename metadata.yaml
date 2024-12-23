@@ -1,11 +1,16 @@
 _repo: The-Yankee-mining-squadron-b-or-laying-the-North-Sea-mine-barrage_74827
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74827-h/images/cover.jpg
 creator:
   author:
     agent_name: Belknap, Reginald R.
     gutenberg_agent_id: '57672'
     url: http://www.gutenberg.org/2009/agents/57672
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74827#The-Yankee-mining-squadron-b-or-laying-the-North-Sea-mine-barrage
 gutenberg_issued: '2024-12-01'
 gutenberg_type: Text
 identifiers:
